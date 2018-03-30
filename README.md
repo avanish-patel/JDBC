@@ -1,3 +1,3 @@
-# JDBC Connection wiht MySQl database
+# JDBC Connection with MySQl database
 
 step by step guide to connectiong to a database
